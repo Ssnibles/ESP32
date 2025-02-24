@@ -3,10 +3,10 @@
 #include <ArduinoJson.h>
 
 // Replace with your network credentials
-const char* ssid = "Bleh";
-const char* password = "celinastinks";
+const char* ssid = "SSID";
+const char* password = "PASSWORD";
 // Replace with your OpenWeatherMap API key
-const char* apiKey = "bda8f719480d16fda6dda1d986e25675";
+const char* apiKey = "API_KEY";
 // Replace with your city and country code
 const char* city = "3112";
 const char* countryCode = "NZ";
